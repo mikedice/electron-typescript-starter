@@ -18,5 +18,6 @@ To get things going
 * In VSCode command+shift+B to build. The output goes into the 'app' subdirectory.
 * In VSCode you can start the debugger now and launch the app under the debugger
 
-Thats all I have so far. Hope it helps 
+Thats all I have so far. Hope it helps!
+
 Mike (mikedice417@hotmail.com)
