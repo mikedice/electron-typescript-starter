@@ -14,10 +14,9 @@ This projects assumes you have set up some basic stuff globally in your dev envi
 
 To get things going
 * Clone this repo
-* In the root of the project run `npm install` to install node packages
 * In the root of the project run `typings install` to install the typings for electron and node
 * In VSCode command+shift+B to build. The output goes into the 'app' subdirectory.
-* In VSCode you can start the debugger now.
+* In VSCode you can start the debugger now and launch the app under the debugger
 
 Thats all I have so far. Hope it helps 
 Mike (mikedice417@hotmail.com)
