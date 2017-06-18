@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "sourceMap": true,
+        "outDir": "app"
+    },
+    "exclude": [
+      "node_modules",".vscode"
+    ]
+}

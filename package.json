@@ -1,0 +1,12 @@
+{
+  "name": "electron-typescript-starter",
+  "version": "1.0.0",
+  "description": "Electron using TypeScript starter project based Dave M Bush's blog at https://blog.dmbcllc.com/typescript-and-electron-the-right-way/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {}
+}
